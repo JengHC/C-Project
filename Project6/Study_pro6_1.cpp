@@ -18,6 +18,6 @@ int main()
 	int n_apples;
 	int value;
 	int _apples;
-
+	
 	getNumber();
 }
