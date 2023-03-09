@@ -1,13 +1,12 @@
 ﻿#include <iostream>
 
-using namespace std;
+#include "MyHeaders/add.h" 
 
-int add(int a, int b)
-{
-	return a + b;
-}
+using namespace std;
 
 int main()
 {
+	cout << add(1, 2) << endl;
 
+	return 0;
 }
