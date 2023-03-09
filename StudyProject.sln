@@ -3,25 +3,27 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project1", "Project1\Project1.vcxproj", "{FDC81656-9450-4407-9688-D5F67222B96F}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter1_11", "Chapter1_11\Chapter1_11.vcxproj", "{C0B22330-AF1C-4A99-A2D3-5F12805F7137}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project2", "Project2\Project2.vcxproj", "{F7BF4CBE-F33B-4B8C-8A2C-5922C4D7A599}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter1_1", "Chapter1_1\Project1.vcxproj", "{FDC81656-9450-4407-9688-D5F67222B96F}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project3", "Project3\Project3.vcxproj", "{88B29384-8120-4096-AC1F-66656B0573B7}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter1_2", "Chapter1_2\Project2.vcxproj", "{F7BF4CBE-F33B-4B8C-8A2C-5922C4D7A599}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project4", "Project4\Project4.vcxproj", "{BF31C2BB-3A4A-46EB-A1CD-B9090F6CB23F}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter1_3", "Chapter1_3\Project3.vcxproj", "{88B29384-8120-4096-AC1F-66656B0573B7}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project5", "Project5\Project5.vcxproj", "{56FC463F-F3CE-49E5-8303-88319DADF2F3}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter1_4", "Chapter1_4\Project4.vcxproj", "{BF31C2BB-3A4A-46EB-A1CD-B9090F6CB23F}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project6", "Project6\Project6.vcxproj", "{8604C59D-ADA5-45AC-A1EF-C49CA53D44BB}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter1_5", "Chapter1_5\Project5.vcxproj", "{56FC463F-F3CE-49E5-8303-88319DADF2F3}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project7", "Project7\Project7.vcxproj", "{7C3D29EE-FCDE-4B8F-B516-F8AF9C0F45D1}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter1_6", "Chapter1_6\Project6.vcxproj", "{8604C59D-ADA5-45AC-A1EF-C49CA53D44BB}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project8", "Project8\Project8.vcxproj", "{1E07C1CA-4621-4DD4-93EE-1FFC34A9CDD9}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter1_7", "Chapter1_7\Project7.vcxproj", "{7C3D29EE-FCDE-4B8F-B516-F8AF9C0F45D1}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project9", "Project9\Project9.vcxproj", "{99019655-1421-4E4A-9CAC-3442F3E753FC}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter1_8", "Chapter1_8\Project8.vcxproj", "{1E07C1CA-4621-4DD4-93EE-1FFC34A9CDD9}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project10", "Project10\Project10.vcxproj", "{41AAF65C-F6DF-460C-9AD2-EA0071791BAF}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter1_9", "Chapter1_9\Project9.vcxproj", "{99019655-1421-4E4A-9CAC-3442F3E753FC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter1_10", "Chapter1_10\Project10.vcxproj", "{41AAF65C-F6DF-460C-9AD2-EA0071791BAF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,6 +33,14 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0B22330-AF1C-4A99-A2D3-5F12805F7137}.Debug|x64.ActiveCfg = Debug|x64
+		{C0B22330-AF1C-4A99-A2D3-5F12805F7137}.Debug|x64.Build.0 = Debug|x64
+		{C0B22330-AF1C-4A99-A2D3-5F12805F7137}.Debug|x86.ActiveCfg = Debug|Win32
+		{C0B22330-AF1C-4A99-A2D3-5F12805F7137}.Debug|x86.Build.0 = Debug|Win32
+		{C0B22330-AF1C-4A99-A2D3-5F12805F7137}.Release|x64.ActiveCfg = Release|x64
+		{C0B22330-AF1C-4A99-A2D3-5F12805F7137}.Release|x64.Build.0 = Release|x64
+		{C0B22330-AF1C-4A99-A2D3-5F12805F7137}.Release|x86.ActiveCfg = Release|Win32
+		{C0B22330-AF1C-4A99-A2D3-5F12805F7137}.Release|x86.Build.0 = Release|Win32
 		{FDC81656-9450-4407-9688-D5F67222B96F}.Debug|x64.ActiveCfg = Debug|x64
 		{FDC81656-9450-4407-9688-D5F67222B96F}.Debug|x64.Build.0 = Debug|x64
 		{FDC81656-9450-4407-9688-D5F67222B96F}.Debug|x86.ActiveCfg = Debug|Win32
