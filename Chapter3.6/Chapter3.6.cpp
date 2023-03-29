@@ -12,7 +12,7 @@ int main()
 	// true false =>true
 	// true true =>false
 	// C++에는XOR없으므로 아래와 같이 쓴다. 이때 bool값이다.
-	//if (x != y)
+	//if (x != y) 
 	//{
 	//	//do someting;
 	//}
