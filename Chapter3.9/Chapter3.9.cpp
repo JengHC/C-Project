@@ -105,6 +105,7 @@ int main()
 	cout << "red " << std::bitset<8>(red) << " " << int(red) << endl;
 	*/
 
+	/*
 	unsigned char option_viewed = 0x01;
 	unsigned char option_edited = 0x02;
 	unsigned char option_liked = 0x04;
@@ -131,6 +132,7 @@ int main()
 	{
 		my_article_flags |= option_deleted;
 	}
+	*/
 
 	return 0;
 }
