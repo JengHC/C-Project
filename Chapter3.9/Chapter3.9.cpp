@@ -113,11 +113,13 @@ int main()
 	unsigned char option_deleted = 0x80;
 
 	unsigned char my_article_flags = 0;
+
 	// 기사를 봤을때
 	if (my_article_flags | option_viewed)
 	{
 		my_article_flags |= option_viewed;
 	}
+
 	// 기사의 좋아요를 클릭했을때, 다시 클릭했을때
 	if (my_article_flags & option_liked)
 	{
@@ -127,6 +129,7 @@ int main()
 	{
 		my_article_flags |= option_liked;
 	}
+
 	// 본 기사 삭제
 	if (my_article_flags & option_viewed)
 	{
