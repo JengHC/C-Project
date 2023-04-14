@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
 	/*
-	//게임에서 아이템을 얻는 경우를 생각해보자.
+	//예를 들어 게임에서 아이템을 얻는 경우를 생각해보자.
 	bool item1_flag = false;
 	bool item2_flag = false;
 	bool item3_flag = false;
