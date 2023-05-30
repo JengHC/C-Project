@@ -59,7 +59,6 @@ int main()
 		default:
 			cout << "Undefined input " << x << endl;
 			break;
-
 	}
 
 	//printColorName(Colors::BLACK);
