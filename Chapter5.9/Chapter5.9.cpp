@@ -1,7 +1,7 @@
 ﻿#include<iostream>
 #include<cstdlib> // rand(), srand()
 #include<ctime>   // time()
-#include<random>
+#include<random>  // C++ 17 이후로 계속 사용되는 Library 
 using namespace std;
 
 //int getRandomNumber(int min, int max)
