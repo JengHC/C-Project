@@ -14,7 +14,7 @@ using namespace std;
 int main()
 {
 	random_device rd;
-	mt19937_64 mersenne(rd()); // create a mesenne twister, ranom생성하는 알고리즘과 관련된것
+	mt19937_64 mersenne(rd()); // create a mesenne twister, random생성하는 알고리즘과 관련된것
 	uniform_int_distribution<>dice(1, 6);
 
 	for (int count = 1; count <= 20; ++count)
