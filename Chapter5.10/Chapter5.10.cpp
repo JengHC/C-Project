@@ -35,7 +35,7 @@ char getOperator()
 		cin >> op;
 		cin.ignore(32767, '\n');
 
-		if (op == '+' || op == '-' || op == '*' || op == '/') //곱하기 나누기 하려면 여기 추가 
+		if (op == '+' || op == '-' || op == '*' || op == '/') //*(곱), /(나누기) 하려면 여기 추가 
 		{
 			return op;
 		}
@@ -48,7 +48,7 @@ char getOperator()
 
 void printResult(int x, char op, int y)
 {
-	if (op == '+') // 이부분도 * / 추가
+	if (op == '+') // 이부분도 *(mul), /(div) 추가
 	{
 		cout << x + y << endl;
 	}
