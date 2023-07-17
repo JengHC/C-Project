@@ -13,6 +13,7 @@ int main()
 	int total_score = 0;
 
 	for (int i = 0; i < num_students; i++)
+
 	{
 		total_score += scores[i];
 		
