@@ -43,5 +43,9 @@ int main()
 	//array[1] = temp;
 	//printArray(array, length);
 
+	// Bubble sort(버블 정렬)
+
+	//
+
 	return 0;
 }
