@@ -117,6 +117,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter6.4", "Chapter6.4\Ch
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter6.5", "Chapter6.5\Chapter6.5.vcxproj", "{8CD1FAB9-9153-4957-A642-B8059C9A1860}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SummaryPS", "SummaryPS\SummaryPS.vcxproj", "{DDFA6950-C129-478B-906C-EA2722D7F359}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -581,6 +583,14 @@ Global
 		{8CD1FAB9-9153-4957-A642-B8059C9A1860}.Release|x64.Build.0 = Release|x64
 		{8CD1FAB9-9153-4957-A642-B8059C9A1860}.Release|x86.ActiveCfg = Release|Win32
 		{8CD1FAB9-9153-4957-A642-B8059C9A1860}.Release|x86.Build.0 = Release|Win32
+		{DDFA6950-C129-478B-906C-EA2722D7F359}.Debug|x64.ActiveCfg = Debug|x64
+		{DDFA6950-C129-478B-906C-EA2722D7F359}.Debug|x64.Build.0 = Debug|x64
+		{DDFA6950-C129-478B-906C-EA2722D7F359}.Debug|x86.ActiveCfg = Debug|Win32
+		{DDFA6950-C129-478B-906C-EA2722D7F359}.Debug|x86.Build.0 = Debug|Win32
+		{DDFA6950-C129-478B-906C-EA2722D7F359}.Release|x64.ActiveCfg = Release|x64
+		{DDFA6950-C129-478B-906C-EA2722D7F359}.Release|x64.Build.0 = Release|x64
+		{DDFA6950-C129-478B-906C-EA2722D7F359}.Release|x86.ActiveCfg = Release|Win32
+		{DDFA6950-C129-478B-906C-EA2722D7F359}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
