@@ -6,9 +6,6 @@ int main()
 	int h,m,s;
 	cin >> s;
 
-	//switch (s)
-	//{
-
 	m = s / 60;
 	s = s % 60;  // %는 나눈 후, 나머지 반환함.
 
